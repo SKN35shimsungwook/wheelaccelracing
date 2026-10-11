@@ -1,5 +1,7 @@
 # 🏎️ 휠 액셀 레이싱 (Streamlit 버전)
 
+**🔗 바로 실행해 보기:** https://wheelaccelracing-qpkr9vjomweybbpqrdl6d6.streamlit.app
+
 마우스 휠 = 가속/브레이크, WASD = 조향, Space = 드리프트인 탑다운 레이싱 게임을
 **Streamlit**으로 감싸서 파이썬 프로젝트처럼 배포할 수 있게 만든 저장소예요.
 `main.ipynb` 노트북 하나만 열어서 위에서부터 순서대로 실행하면 `game.html` / `main.py` /
